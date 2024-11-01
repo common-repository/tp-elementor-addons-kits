@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-Plugin_Logo_1">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="Plugin_Logo_1" data-name="Plugin Logo – 1" clip-path="url(#clip-Plugin_Logo_1)">
+    <rect width="256" height="256" fill="#fff"/>
+    <g id="Back" transform="translate(-519 -186)">
+      <g id="BG" transform="translate(161 186)">
+        <g id="Opacity" transform="translate(358.4)">
+          <rect id="Rectangle_5" data-name="Rectangle 5" width="256" height="256" transform="translate(-0.4)" fill="#102d3a"/>
+        </g>
+        <g id="Opacity-2" data-name="Opacity" transform="translate(358.4 28.16)">
+          <rect id="Rectangle_6" data-name="Rectangle 6" width="256" height="200" transform="translate(-0.4 -0.16)" fill="#163b4b"/>
+        </g>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="52" height="4.008" transform="translate(358 126.061)" fill="#339400"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="52" height="4.008" transform="translate(562 126.061)" fill="#339400"/>
+      </g>
+      <g id="That_Peoples" data-name="That Peoples" transform="translate(529.721 249)">
+        <g id="Logo" transform="translate(63.279)">
+          <path id="Path_29" data-name="Path 29" d="M426.808,46.88V74.617a14.245,14.245,0,0,1,0-27.737Z" transform="translate(-380.325 -46.88)" fill="#359545"/>
+          <path id="Path_30" data-name="Path 30" d="M430.765,60.682A14.2,14.2,0,0,1,419.75,74.529V46.88a14.245,14.245,0,0,1,11.015,13.8Z" transform="translate(-366.857 -46.88)" fill="#fff"/>
+          <path id="Path_31" data-name="Path 31" d="M445.265,126.449V63.63L422.04,111.717Z" transform="translate(-398.823 -29.6)" fill="#fff"/>
+          <path id="Path_32" data-name="Path 32" d="M416.79,122.631l46.45-33.4L440.015,74.5Z" transform="translate(-416.79 7.369)" fill="#ccc"/>
+          <path id="Path_33" data-name="Path 33" d="M428.75,126.449l27.561-26.764L428.75,63.63Z" transform="translate(-375.861 -29.6)" fill="#339400"/>
+          <path id="Path_34" data-name="Path 34" d="M483.871,108.321,456.311,71.78,428.75,98.544Z" transform="translate(-375.871 -1.818)" fill="#519c29"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
